@@ -17,8 +17,6 @@ Java, Kotlin, Python, MySQL, C ...
 
 🧠 I'm currently learning Jetpack compose and KMP.
 
-👯‍♀️ I'm looking to collaborate on App Development.
-
 
 ## 🚀 About Me
 I'm an App developer...
